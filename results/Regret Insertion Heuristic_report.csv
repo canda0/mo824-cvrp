@@ -1,0 +1,9 @@
+method,instance,n_customers,n_vehicles,total_cost,execution_time_seconds
+Regret Insertion Heuristic,Instance 1,100,27,43225.0,3.488079309463501
+Regret Insertion Heuristic,Instance 2,203,19,34721.0,31.506624937057495
+Regret Insertion Heuristic,Instance 3,302,21,49928.0,23.429083824157715
+Regret Insertion Heuristic,Instance 4,400,29,83930.0,34.504058837890625
+Regret Insertion Heuristic,Instance 5,501,39,95364.0,67.37942934036255
+Regret Insertion Heuristic,Instance 6,612,62,91291.0,129.59555768966675
+Regret Insertion Heuristic,Instance 7,700,44,123255.0,178.99572777748108
+Regret Insertion Heuristic,Instance 8,800,40,119506.0,289.9800977706909

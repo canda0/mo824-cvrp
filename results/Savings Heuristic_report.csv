@@ -1,0 +1,9 @@
+method,instance,n_customers,n_vehicles,total_cost,execution_time_seconds
+Savings Heuristic,Instance 1,100,29,31106.0,0.06793451309204102
+Savings Heuristic,Instance 2,203,36,38844.0,0.18716120719909668
+Savings Heuristic,Instance 3,302,60,55010.0,0.5213592052459717
+Savings Heuristic,Instance 4,400,72,147071.0,1.6179745197296143
+Savings Heuristic,Instance 5,501,96,165598.0,2.177840232849121
+Savings Heuristic,Instance 6,612,121,117089.0,3.2976105213165283
+Savings Heuristic,Instance 7,700,102,188384.0,5.014630317687988
+Savings Heuristic,Instance 8,800,126,227154.0,6.830170154571533
